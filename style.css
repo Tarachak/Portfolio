@@ -1,0 +1,196 @@
+body
+{
+	background-color:#303030;
+	color:white;
+	font-family: 'Lato', sans-serif;
+	font-size:20px;
+}
+
+#container
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+	font-family: 'Lato', sans-serif;
+	
+}
+
+.rectangle
+{
+	width:960px;
+	margin:20px;
+	text-align:center;
+}
+
+
+.square
+{
+	width:50%;
+	float:left;
+}
+
+#logo
+{
+	float:left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:45px;
+	width:500px;
+	text-align:left;
+
+}
+#zegar
+{
+	float:left;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size:45px;
+	text-align:right;
+}
+
+.plate1
+{
+	float:left;
+	margin:10px;
+	width:230px;
+	height:142px;
+	background-color:#3095d3;
+	text-align:center;
+	
+}
+
+.plate1:hover
+{
+	background-color:#2084c2;
+}
+
+.plate2
+{
+	float:left;
+	margin:10px;
+	width:230px;
+	height:142px;
+	background-color:#666666;
+	text-align:center;
+}
+
+.plate2:hover
+{
+	background-color:#555555;
+}
+
+.plate3
+{
+	float:left;
+	margin:10px;
+	width:230px;
+	height:142px;
+	background-color:#e67519;
+	text-align:center;
+}
+
+.plate3:hover
+{
+	background-color:#d56408;
+}
+
+.plate4
+{
+	margin:10px;
+	width:440px;
+	height:102px;
+	background-color:#3fd15f;
+	text-align:center;
+	font-size:20px;
+	padding:20px;
+	line-height:130%;
+}
+
+.plate4:hover
+{
+	background-color:#2ec04e;
+}
+
+
+.plate5
+{
+	margin:10px;
+	width:420px;
+	height:244px;
+	background-color:#666666;
+	text-align:justify;
+	padding:30px;
+}
+
+.plate5:hover
+{
+	background-color:#555555;
+}
+
+.fb
+{	
+	float:left;
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#3b5998;
+}
+
+.fb:hover
+{
+	background-color:#2a4887;
+}
+
+.git
+{	
+	float:left;
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:black;
+}
+
+.git:hover
+{
+	background-color:#111111;
+}
+
+.ln
+{	
+	float:left;
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#0e76a8;
+}
+
+.ln:hover
+{
+	background-color:#0d6597;
+}
+.cv
+{	
+	float:left;
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#D44638;
+}
+
+.cv:hover
+{
+	background-color:#C33527;
+}
+
+a.platelink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:230px;
+	height:142px;
+}
+
+a.platelinkhtml5
+{
+	color:#ffffff;
+	text-decoration:none;
+}
